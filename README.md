@@ -26,13 +26,8 @@ Feel free to explore my repositories for more details and code samples.
 
 ## Contact
 
-You can reach me via email at mmmaaa3837@gmail.com.
+You can reach me via email at ayane20dev@gmail.com.
 
 Looking forward to connecting with fellow developers and exploring new opportunities!
 
 **Note:** This profile page is regularly updated with any changes or additions.
-
-<!---
-ayane20dev/ayane20dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
