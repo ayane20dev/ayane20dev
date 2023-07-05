@@ -5,7 +5,7 @@ Hello there! I'm Ayane, a Java developer specializing in Android application dev
 ## Personal Information
 
 - **Name**: Ayane (Alias)
-- **Email**: mmmaaa3837@gmail.com
+- **Email**: ayane20dev@gmail.com
 
 ## Skills and Interests
 
