@@ -1,6 +1,6 @@
 # Welcome to my Profile!
 
-Hello there! I'm Ayane, a Java developer specializing in Android application development. I also have some knowledge of JavaScript and web development using Java. I'm familiar with Kotlin as well. In this repository, you'll find information about me and my projects. (This page is continuously updated to reflect any changes.)
+Hello there! I'm Ayane, a Java developer specializing in Android application development. I also have some knowledge of JavaScript and web development using Java. I'm familiar with Kotlin as well. In this repository, you'll find information about me and my projects.
 
 ## Personal Information
 
@@ -30,6 +30,7 @@ You can reach me via email at mmmaaa3837@gmail.com.
 
 Looking forward to connecting with fellow developers and exploring new opportunities!
 
+**Note:** This profile page is regularly updated with any changes or additions.
 
 <!---
 ayane20dev/ayane20dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
