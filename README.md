@@ -1,6 +1,6 @@
 # Welcome to my Profile!
 
-Hello there! I'm Ayane, a Java developer specializing in Android application development. I also have some knowledge of JavaScript and web development using Java. I'm familiar with Kotlin as well. In this repository, you'll find information about me and my projects.
+Hello there! I'm Ayane, a Java developer specializing in Android application development. I also have some knowledge of JavaScript and web development using Java. I'm familiar with Kotlin as well. In this repository, you'll find information about me and my projects. (This page is continuously updated to reflect any changes.)
 
 ## Personal Information
 
